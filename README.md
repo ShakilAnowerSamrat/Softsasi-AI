@@ -1,5 +1,8 @@
 # Softsasi-AI
-“Softsasi AI” is a Visual AI Assistant that we developed using the Unreal Engine 5 game engine, Blueprint(a visual scripting system), OpenAI api as well as C++, JavaScript programming language
+“Softsasi AI” is a Visual AI Assistant that we developed using the Unreal Engine 5 game engine, Blueprint(a visual scripting system), OpenAI api as well as C++, JavaScript programming language.
+To download the source code, please email samrat@softsasi.com. After verification, if we find that you are eligible, you will receive the code.
+
+
 Mymensingh Engineering College
 Project Report on
 Visual AI Assistant: Softsasi AI
